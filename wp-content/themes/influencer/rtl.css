@@ -1,0 +1,300 @@
+/*
+Theme Name: Influencer
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.blossomthemes-email-newsletter-wrapper form input[name="subscribe-fname"], 
+.blossomthemes-email-newsletter-wrapper form input[name="subscribe-email"], 
+.post-newsletter .blossomthemes-email-newsletter-wrapper form input[name="subscribe-email"] {
+	background-position: 97% 50%;
+	padding-left: 0;
+	padding-right: 50px;
+}
+section[class*="-section"] .widget_raratheme_featured_page_widget .text-holder {
+	padding-left: 0;
+	padding-right: 18px;
+	text-align: left;
+}
+section[class*="-section"] .widget_raratheme_featured_page_widget .right .text-holder {
+	padding-right: 0;
+	padding-left: 18px;
+	text-align: right;
+}
+
+section[class*="-section"] .widget_raratheme_featured_page_widget .right .img-holder {
+	float: left;
+}
+section[class*="-section"] .widget_raratheme_featured_page_widget .left .img-holder {
+	float: right;
+}
+section[class*="-section"] .widget_rrtc_testimonial_widget {
+	margin-right: 0;
+	margin-left: 2.5%;
+}
+section[class*="-section"] .widget_rrtc_testimonial_widget:nth-child(2n+1) {
+	margin-left: 0;
+}
+
+section[class*="-section"] .raratheme-cta-container.right {
+	padding-right: 0;
+	padding-left: 40%;
+	text-align: right !important;
+}
+section[class*="-section"] .raratheme-cta-container.left {
+	padding-right: 40%;
+	padding-left: 0;
+	text-align: left !important;
+}
+section[class*="-section"] .right .button-wrap {
+	right: auto;
+	left: 0;
+}
+section[class*="-section"] .left .button-wrap {
+	left: auto;
+	right: 0;
+}
+.entry-meta > span {
+	margin-right: 0;
+	margin-left: 30px;
+}
+.entry-meta > span:last-child {
+	margin-left: 0;
+}
+.entry-meta > span:before {
+	left: auto;
+	right: -20px;
+}
+.top-footer .widget.widget_raratheme_social_links ul li a {
+	text-align: right;
+	padding-left: 0;
+	padding-right: 30px;
+}
+.top-footer .widget.widget_raratheme_social_links ul li a span {
+	left: auto;
+	right: 0;
+}
+.bottom-footer .scroll-to-top {
+    text-align: left;
+}
+.bottom-footer .scroll-to-top img {
+	margin-left: 0;
+	margin-right: 8px;
+	vertical-align: text-top;
+}
+.widget_search .search-form > label {
+	float: right;
+}
+.post-newsletter .blossomthemes-email-newsletter-wrapper form input[type="text"], 
+.post-newsletter .blossomthemes-email-newsletter-wrapper form input[type="email"] {
+	float: right;
+}
+.comments-area .reply {
+	right: auto;
+	left: 0;
+}
+
+.widget_raratheme_companion_cta_widget .right {
+	text-align: right !important;
+}
+
+.widget_categories ul li {
+	direction: ltr;
+}
+
+.top-footer .widget {
+    margin-right: 0;
+    margin-left: 3%;
+}
+.top-footer .widget:nth-child(4n) {
+	margin-left: 0;
+}
+
+section[class*="-section"] .right .button-wrap {
+	text-align: left;
+}
+
+.news-section .news-block, .error-404 .news-block {
+    margin-right: 0;
+    margin-left: 2.5%;
+}
+
+.news-section .news-block:last-child, .error-404 .news-block:last-child {
+	margin-left: 0;
+}
+
+.widget_rrtc_testimonial_widget {
+	text-align: right;
+}
+
+.rtc-team-holder-modal ul.social-profile {
+    float: left;
+}
+.rtc-team-holder-modal ul.social-profile li a {
+	padding-right: 0;
+	padding-left: 30px;
+}
+.rtc-team-holder-modal ul.social-profile li:last-child a {
+	padding-left: 0;
+}
+
+.widget_raratheme_featured_page_widget .right {
+	text-align: right !important;
+}
+.related-post-wrap .related-post-block {
+    margin-right: 0;
+    margin-left: 2.5%;
+}
+.related-post-wrap .related-post-block:nth-child(2n) {
+    margin-left: 0;
+}
+.related-content-wrap {
+    text-align: right;
+}
+.widget ul .sub-menu {
+	padding-left: 0; 
+	padding-right: 15px;
+}
+.nav-links .page-numbers.prev {
+   float: right;
+   padding-left: 10px;
+   padding-right: 35px;
+}
+.nav-links .page-numbers span[class*="-arrow"] {
+   left: auto;
+   right: 10px;
+   -webkit-transform: rotate(180deg);
+   -moz-transform: rotate(180deg);
+   transform: rotate(180deg);
+}
+.nav-links .page-numbers.next {
+   float: left;
+   padding-right: 10px;
+   padding-left: 35px;
+}
+.nav-links .page-numbers span.next-arrow {
+   right: auto;
+   left: 10px;
+}
+a.readmore, 
+.widget_raratheme_featured_widget .text-holder .readmore, 
+.widget_raratheme_image_widget .readmore {
+    padding-right: 0;
+    padding-left: 30px;
+}
+a.readmore:before, 
+.widget_raratheme_featured_widget .text-holder .readmore:before, 
+.widget_raratheme_image_widget .readmore:before {
+    left: 0;
+    right: auto;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+a.readmore:after, 
+.widget_raratheme_featured_widget .text-holder .readmore:after, 
+.widget_raratheme_image_widget .readmore:after {
+    left: auto;
+    right: 0;
+}
+.post-navigation .nav-previous {
+    text-align: right;
+    padding-right: 0;
+    padding-left: 50px;
+}
+.comment-navigation .nav-previous, 
+.posts-navigation .nav-previous, 
+.post-navigation .nav-previous {
+    float: right;
+}
+.post-navigation a span.prev {
+    padding-left: 0;
+    padding-right: 25px;
+}
+.post-navigation a span[class*="-arrow"], 
+.nav-links .page-numbers span[class*="-arrow"] {
+    left: auto;
+    right: 0;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.post-navigation .nav-next {
+    padding-left: 0;
+    padding-right: 50px;
+}
+.comment-navigation .nav-next, 
+.posts-navigation .nav-next, 
+.post-navigation .nav-next {
+    float: left;
+    text-align: left;
+}
+.post-navigation a span.next {
+    padding-right: 0;
+    padding-left: 25px;
+}
+.post-navigation a span.next-arrow, 
+.nav-links .page-numbers span.next-arrow {
+    left: 0;
+    right: auto;
+}
+.widget_raratheme_popular_post ul li .post-thumbnail, 
+.widget_raratheme_recent_post ul li .post-thumbnail {
+   float: right;
+  width: 68px;
+   margin-left: 15px;
+}
+.grid-layout article {
+    margin-right: 0;
+    margin-left: 2.5%;
+}
+.rightsidebar .grid-layout article:nth-child(2n), 
+.leftsidebar .grid-layout article:nth-child(2n) {
+    margin-left: 0;
+}
+@media screen and (max-width: 980px) {
+	.main-navigation button.toggle-button {
+		float: left;
+	}
+	.main-navigation ul.nav-menu a.menu-start-button {
+		margin-right: 8px;
+	}
+}
+
+@media screen and (max-width: 810px) {
+	.news-section .news-block, 
+	.error-404 .news-block {
+	    width: 48.33%;
+	}
+	.news-section .news-block:nth-child(2n), 
+	.error-404 .news-block:nth-child(2n) {
+	    margin-left: 0;
+	}
+
+	.top-footer .widget:nth-child(2n) {
+	    margin-left: 0;
+	}
+	.bottom-footer .scroll-to-top {
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	section[class*="-section"] .raratheme-cta-container.right {
+		padding-left: 0;
+	}
+	section[class*="-section"] .raratheme-cta-container.left {
+		padding-right: 0;
+	}
+}

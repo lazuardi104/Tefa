@@ -1,0 +1,2061 @@
+# Translation of Themes - Blossom Travel in Indonesian
+# This file is distributed under the same license as the Themes - Blossom Travel package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-30 16:56:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Blossom Travel\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Blossom Travel"
+msgstr "Blossom Travel"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Blossom Travel is a free WordPress theme which allows you to create various types of feminine blogs such as travel blog, personal blog, fashion blog, beauty blog, and many more. You can create a professional and chic friendly travel and other feminine blog with this theme without writing a single line of code. It is a fully responsive theme which will display your content accurately on every device. This theme features a creative design combined with eye-catching color combination which will make your reader come back again and again on your blog. Blossom Travel features multiple customization options to allow you to customize your website as per your desire via the WordPress Customizer. This theme features a great design on the front-end and easy to use content management system on the back-end. This theme features dedicated sections for Instagram and Email Subscription to help you grow your Instagram followers and Email list. Furthermore, it is a speed optimized theme which provides a great user experience to your visitors while browsing your website. The ultra SEO optimized & Schema.org ready codes help your website rank at the top in Google and other search engine results. This theme comes with a step-by-step extensive documentation guide to help you build your blog from scratch. Also, it is backed up by a quick, responsive and friendly support team to help you solve your theme related queries in no time. Check theme details at https://blossomthemes.com/downloads/blossom-travel-free-wordpress-theme/, demo at https://blossomthemes.com/theme-demo/?theme=blossom-travel/, read the documentation at https://docs.blossomthemes.com/docs/blossom-travel/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Blossom Travel adalah tema WordPress gratis yang memungkinkan Anda membuat berbagai jenis blog feminin seperti blog travel, blog pribadi, blog fashion, blog kecantikan, dan banyak lagi. Anda dapat membuat perjalanan yang ramah dan profesional serta blog feminin lainnya dengan tema ini tanpa menulis satu baris kode. Ini adalah tema yang sepenuhnya responsif yang akan menampilkan konten Anda secara akurat di setiap perangkat. Tema ini menampilkan desain kreatif yang dikombinasikan dengan kombinasi warna yang menarik yang akan membuat pembaca Anda kembali lagi dan lagi di blog Anda. Blossom Travel memiliki beberapa opsi penyesuaian untuk memungkinkan Anda menyesuaikan situs web sesuai keinginan Anda melalui WordPress Customizer. Tema ini menampilkan desain hebat di front-end dan sistem manajemen konten yang mudah digunakan di back-end. Tema ini memiliki fitur khusus berupa bagian Instagram dan Email Subscription untuk membantu Anda menumbuhkan pengikut Instagram dan daftar Email Anda. Selain itu, ini adalah tema yang dioptimalkan kecepatannya yang memberikan pengalaman pengguna yang hebat bagi pengunjung Anda saat menjelajahi situs web Anda. Kode yang dioptimalkan untuk SEO & Schema.org membantu rangking situs web Anda di posisi teratas di Google dan hasil mesin pencari lainnya. Tema ini dilengkapi dengan panduan dokumentasi yang lengkap berisi langkah-demi-langkah untuk membantu Anda membangun blog Anda dari awal. Selain itu, didukung oleh tim layanan bantuan yang cepat, responsif, dan ramah untuk membantu Anda menyelesaikan pertanyaan terkait tema Anda dalam waktu singkat. Cek rincian tema di https://blossomthemes.com/downloads/blossom-travel-free-wordpress-theme/, demo di https://blossomthemes.com/theme-demo/?theme=blossom-travel/, baca dokumentasi di https://docs.blossomthemes.com/docs/blossom-travel/, dan dapatkan layanan bantuan di https://blossomthemes.com/support-ticket/."
+
+#: inc/getting-started/tabs/link-panel.php:11
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "With the Pro version, you can change the look and feel of your website in seconds. In just a few clicks, you can change the color and typography of your website. The premium version lets you have better control over the theme as it comes with more customization options. Not just that, the theme also has more sections and layout options as compared to the free version. The Pro version is multi-language compatible as well."
+msgstr "Dengan versi Pro, Anda dapat mengubah tampilan dan rasa situs web Anda dalam hitungan detik. Hanya dalam beberapa klik, Anda dapat mengganti warna dan tipografi situs web Anda. Versi premium memungkinkan Anda memiliki pengelolaan yang lebih baik pada tema karena ada opsi pengaturan yang lebih banyak. Tidak hanya itu saja, ada juga bagian-bagian dan opsi-opsi layout yang lebih banyak dibandingkan versi gratis. Versi Pro juga kompatibel dengan multi-bahasa."
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:17
+msgid "HubSpot All-In-One Marketing - Forms, Popups, Live Chat"
+msgstr "HubSpot All-In-One Marketing - Forms, Popups, Live Chat"
+
+#: inc/getting-started/getting-started.php:145
+#: inc/getting-started/tabs/useful-plugins-panel.php:10
+msgid "Useful Plugins"
+msgstr "Plugin yang Mermanfaat"
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:12
+msgid "Below is a list of useful plugins that will help you get the most out of Blossom Travel."
+msgstr "Berikut ini adalah daftar plugin-plugin yang berguna untuk memperoleh seluruh fitur Blossom Travel."
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:19
+#: inc/tgmpa/recommended-plugins.php:76
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/tgmpa/recommended-plugins.php:66
+msgid "Regenerate Thumbnails"
+msgstr "Buat-ulang Thumbnail"
+
+#: inc/tgmpa/recommended-plugins.php:56
+msgid "BlossomThemes Email Newsletter"
+msgstr "BlossomThemes Email Newsletter"
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "BlossomThemes Toolkit"
+msgstr "BlossomThemes Toolkit"
+
+#: inc/customizer/general.php:447
+msgid "Enable to hide Comments."
+msgstr "Aktifkan untuk menyembunyikan Komentar."
+
+#: inc/template-functions.php:39
+msgid "Skip to Content"
+msgstr "Lompat ke Konten"
+
+#: inc/getting-started/tabs/link-panel.php:31
+msgid "Submit Here"
+msgstr "Submit Di Sini"
+
+#: inc/getting-started/tabs/link-panel.php:27
+#: inc/getting-started/tabs/link-panel.php:31
+msgid "Submit your site for social share"
+msgstr "Submit situs Anda untuk sharing media sosial"
+
+#: inc/getting-started/tabs/link-panel.php:28
+msgid "We regularly share and feature websites made using our themes on our social media accounts( Facebook, Instagram, Twitter and Pinterest )."
+msgstr "Kami secara berkala membagikan dan menampilkan situs web yang dibuat menggunakan tema-tema kami di akun media sosial kami (Facebook, Instagram, Twitter dan Pinterest)."
+
+#: inc/getting-started/tabs/link-panel.php:29
+msgid "If you would like to get your website shared and featured, please submit your website by clicking the link below."
+msgstr "Jika Anda ingin situs web Anda dibagian dan ditayangkan, silakan masukkan situs web Anda dengan mengklik tautan berikut."
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/getting-started/tabs/support-panel.php:56
+msgid "Also, you might experience a slower response time during the weekend, so please bear with us."
+msgstr "Selain itu, Anda mungkin memperoleh respon yang lebih lambat selama akhir pekan, jadi harap maklum."
+
+#: inc/getting-started/tabs/support-panel.php:55
+msgid "When you submit the support ticket, please try to provide as much details as possible so that we can solve your problem faster. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "Selain itu, ketika Anda mengirimkan tiket bantuan, harap untuk memberikan rincian secara lengkap agar kami dapat melihat masalah Anda secara terperinci dan menyelesaikan permasalahan secepat mungkin. Kami merekomendasikan Anda untuk mengirimkan tangkapan layar (screenshots) beserta penjelasan permasalahannya dan alamat situs web Anda (URL)."
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Before you send us a support ticket for any issues, please make sure you have updated the theme to the latest version. We might have fixed the bug in the theme update."
+msgstr "Sebelum Anda mengirim tiket bantuan untuk masalah apa pun, pastikan Anda telah memperbarui tema ke versi yang terbaru. Mungkin kami telah memecahkan masalah tersebut di versi terbaru."
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Kunjungi pusat pengetahuan"
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with using the WordPress as quickly as possible? Visit our well-organized Knowledge Base!"
+msgstr "Membutuhkan bantuan dengan WordPress dan tema kami secepat mungkin? Kunjungi dokumentasi yang terorganisir kami."
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Kunjungi Pusat Pengetahuan"
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Upgrade ke Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Lihat Versi Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "Lihat Versi Premium"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read More About the Pro Theme"
+msgstr "Baca Selengkapnya Tentang Tema Pro"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "You will also get more frequent updates and quicker support with the Pro version."
+msgstr "Anda akan memperoleh pembaruan berkala dan layanan bantuan yang lebih cepat dengan versi Pro."
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our Knowledge Base has step-by-step video and text tutorials, from installing the WordPress to working with themes and more."
+msgstr "Pusat Pengetahuan Kami memiliki video langkah-demi-langkah dan tutorial dalam bentuk teks, mulai dari cara instal WordPress hingga cara menggunakan tema dan lain-lain."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tema ini mewajibkan plugin berikut: %1$s."
+msgstr[1] "Tema ini mewajibkan plugin-plugin berikut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tema ini menyarankan plugin berikut: %1$s."
+msgstr[1] "Tema ini menyarankan plugin-plugin berikut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang disarankan berikut saat ini tidak aktif: %1$s."
+msgstr[1] "Plugin yang disarankan berikut saat ini tidak aktif: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang diwajibkan berikut, saat ini tidak aktif: %1$s."
+msgstr[1] "Plugin yang diwajibkan berikut, saat ini tidak aktif: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Tersedia pembaruan untuk: %1$s."
+msgstr[1] "Tersedia pembaruan untuk plugin-plugin berikut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Plugin berikut perlu diperbarui ke versi terbaru untuk memastikan kompatibilitas yang maksimal dengan tema ini: %1$s."
+msgstr[1] "Plugin berikut perlu diperbarui ke versi terbaru untuk memastikan kompatibilitas yang maksimal dengan tema ini: %1$s."
+
+#: inc/customizer/general.php:563
+msgid "Shop Page Description"
+msgstr "Keterangan Halaman Shop"
+
+#: inc/customizer/general.php:564
+msgid "Enable to show Shop Page Description."
+msgstr "Aktifkan untuk menampilkan Keterangan Halaman Shop."
+
+#: inc/customizer/info.php:129
+msgid "VIEW PRO THEME"
+msgstr "LIHAT TEMA PRO"
+
+#: inc/customizer/info.php:127
+msgid "Pro Available"
+msgstr "Tersedia Versi Pro"
+
+#: inc/customizer/info.php:26
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Tautan Dokumentasi: %1$sKlik di sini.%2$s"
+
+#: inc/customizer/info.php:24
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Tautan Demo: %1$sKlik di sini.%2$s"
+
+#: inc/customizer/info.php:11
+msgid "Demo & Documentation"
+msgstr "Demo & Dokumentasi"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "Semua instalasi telah selesai."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s berhasil dipasang."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses instalasi sedang dimulai. Proses ini mungkin memerlukan waktu beberapa saat pada beberapa hosting tertentu, jadi harap bersabar."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "Semua instalasi dan pengaktifan telah selesai."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "Sembunyikan Rincian"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "Tampilkan Rincian"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s berhasil diinstal dan diaktifkan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses instalasi dan pengaktifan sedang dimulai. Proses ini mungkin memerlukan waktu beberapa saat di beberapa hosting tertentu, jadi harap bersabar."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "Instalasi %1$s gagal."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi eror ketika menginstal %1$s: <strong>%2$s</strong>."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "Instal %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "Versi"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "Tipe"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Sumber"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk diinstal, perbarui atau aktifkan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "Versi yang tersedia:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "Versi minimal yang diwajibkan:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "Versi yang diinstal:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Agar Diaktifkan <span class=\"count\">(%s)</span>"
+msgstr[1] "Agar Diaktifkan <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+msgstr[1] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Paket plugin asal berisi lebih dari satu file, namun file-file tersebut tidak disertakan di dalam satu folder."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Silakan hubungi pembuat plugin dan tanyakan agar mengemas plugin mereka sesuai panduan dari WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Paket plugin asal tidak berisi folder dengan slug yang susai dan penggantian nama tidak berhasil."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "Pembaruan Diwajibkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin ini harus diperbarui agar kompatibel dengan tema anda."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "Silakan hubungi administrator situs ini untuk bantuan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Ada satu atau lebih plugin yang diwajibkan atau direkomendasikan untuk diinstal, perbarui atau aktifkan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Singkirkan catatan ini"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil diinstal dan diaktifkan. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin tidak diaktifkan. Versi yang lebih baru dari %s diperlukan untuk tema ini. Silakan perbarui plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada aksi diproses. Plugin %1$s sudah aktif sebelumnya."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin berikut berhasil diaktifkan:"
+msgstr[1] "Plugin berikut berhasil diaktifkan:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: inc/template-functions.php:437
+msgid "Post Navigation"
+msgstr "Navigasi Artikel"
+
+#: inc/template-functions.php:342
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: inc/extras.php:681
+msgid ")"
+msgstr ")"
+
+#: inc/extras.php:681
+msgid " (Page"
+msgstr "(Halaman"
+
+#: inc/extras.php:678
+msgid "404 Error - Page Not Found"
+msgstr "404 Error - Halaman Tidak Ditemukan"
+
+#: inc/extras.php:630
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#: inc/extras.php:509
+msgid "d"
+msgstr "d"
+
+#: inc/extras.php:507 inc/extras.php:516
+msgid "F"
+msgstr "F"
+
+#: inc/extras.php:507 inc/extras.php:509 inc/extras.php:516
+msgid "m"
+msgstr "m"
+
+#: inc/extras.php:500
+msgid "\""
+msgstr "\""
+
+#: inc/extras.php:500
+msgid "Search Results for \""
+msgstr "Hasil Pencarian untuk \""
+
+#: inc/extras.php:863
+msgid "Choose Category"
+msgstr "Pilih Kategori"
+
+#: inc/typography.php:360
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/typography.php:361
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/typography.php:362
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/typography.php:363
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/typography.php:364
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/typography.php:365
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/typography.php:366
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/typography.php:367
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/extras.php:834
+msgid " -- Choose -- "
+msgstr "-- Pilih --"
+
+#: inc/extras.php:721
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang menunggu moderasi."
+
+#: inc/extras.php:325
+msgid "Click here to add a menu"
+msgstr "Klik di sini untuk membuat menu"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:382
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Sunting <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer/general.php:244
+msgid "Enable to hide prefix in archive page."
+msgstr "Aktifkan untuk menyembunyikan awalan (prefix) di halaman arsip."
+
+#: inc/customizer/general.php:243
+msgid "Hide Prefix in Archive Page"
+msgstr "Sembunyikan Awalan (Prefix) di Halaman Arsip"
+
+#: inc/customizer/general.php:530
+msgid "Show Featured Image"
+msgstr "Tampilkan Gambar Andalan"
+
+#: inc/customizer/general.php:510
+msgid "Enable to hide posted date."
+msgstr "Aktifkan untuk menyembunyikan tanggal diterbitkan."
+
+#: inc/customizer/general.php:509
+msgid "Hide Posted Date"
+msgstr "Sembunyikan Tanggal Diterbitkan"
+
+#: inc/customizer/general.php:356
+msgid "Enable to hide author section."
+msgstr "Aktifkan untuk menyembunyikan bagian penulis."
+
+#: inc/customizer/layout.php:108
+msgid "Post Sidebar Layout"
+msgstr "Layout Sidebar Artikel"
+
+#: inc/customizer/layout.php:82
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "Ini adalah layout sidebar umum funtuk halaman. Anda dapat menimpa layout sidebar untuk halaman tunggal yang ditentukan."
+
+#: inc/customizer/layout.php:81
+msgid "Page Sidebar Layout"
+msgstr "Layout Sidebar Halaman"
+
+#: inc/customizer/general.php:222
+msgid "Posts(Blog) & Pages Settings"
+msgstr "Pengaturan Blog & Halaman"
+
+#: inc/customizer/general.php:212
+msgid "Breadcrumb Home Text"
+msgstr "Teks Breadcrumb Awal"
+
+#: inc/customizer/general.php:202 inc/extras.php:378
+msgid "Home"
+msgstr "Beranda"
+
+#: inc/customizer/general.php:192
+msgid "Enable Breadcrumb"
+msgstr "Aktifkan Breadcrumb"
+
+#: inc/customizer/general.php:172
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "Aktifkan untuk menampilkan artikel yang terakhir diperbarui pada daftar dan halaman artikel tunggal."
+
+#: inc/customizer/general.php:171
+msgid "Enable Last Update Post Date"
+msgstr "Aktifkan Tanggal Artikel Terakhir Diperbarui"
+
+#: inc/customizer/general.php:150
+msgid "SEO Settings"
+msgstr "Pengaturan SEO"
+
+#: inc/customizer/general.php:134
+msgid "links"
+msgstr "tautan"
+
+#: inc/customizer/general.php:16
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: inc/customizer/footer.php:32
+msgid "Footer Copyright Text"
+msgstr "Teks Hak Cipta Footer"
+
+#: inc/customizer/footer.php:13
+msgid "Footer Settings"
+msgstr "Pengaturan Footer"
+
+#: inc/customizer/appearance.php:34
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: inc/customizer/appearance.php:13
+msgid "Appearance Settings"
+msgstr "Pengaturan Tampilan"
+
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Invalid Value"
+msgstr "Nilai Tidak Valid"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Spacing"
+msgstr "Jarak"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Height"
+msgstr "Tinggi"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Size"
+msgstr "Ukuran"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Color"
+msgstr "Warna"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Justify"
+msgstr "Rata kanan kiri"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Right"
+msgstr "Kanan"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Center"
+msgstr "Tengah"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Size"
+msgstr "Ukuran Font"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgid "Font Family"
+msgstr "Kelompok Font"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "baris"
+
+#. translators: 1: comment count number.
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Komentar"
+msgstr[1] "%1$s Komentar"
+
+#: inc/template-functions.php:211
+msgid "The page you are looking for may have been moved, deleted, or possibly never existed."
+msgstr "Halaman yang sedang Anda cari mungkin sudah dipindah, hapus, atau mungkin tidak pernah ada."
+
+#: inc/woocommerce-functions.php:41
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Sidebar tampil hanya di halaman WooCommerce."
+
+#: inc/woocommerce-functions.php:39
+msgid "Shop Sidebar"
+msgstr "Sidebar Shop"
+
+#: inc/widgets.php:74
+msgid "Add footer four widgets here."
+msgstr "Tambahkan widget footer empat di sini."
+
+#: inc/widgets.php:72
+msgid "Footer Four"
+msgstr "Footer Empat"
+
+#: inc/widgets.php:69
+msgid "Add footer three widgets here."
+msgstr "Tambahkan widget footer tiga di sini."
+
+#: inc/widgets.php:67
+msgid "Footer Three"
+msgstr "Footer Tiga"
+
+#: inc/widgets.php:64
+msgid "Add footer two widgets here."
+msgstr "Tambahkan widget footer dua di sini."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak tersedia plugin untuk diinstal saat ini."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diperbarui. Tidak ada aksi diproses."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Tidak ada plugin dipilih untuk dipasang. Tidak ada aksi diproses."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "Perbarui"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr "Instal"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "Pesan pembaruan dari pembuat plugin:"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Diinstal <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Diinstal <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+msgstr[1] "Semua <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "Pembaruan disarankan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "Wajib Pembaruan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "Tidak Tersedia Pembaruan yang Diwajibkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "Diinstal Namun Tidak Diaktifkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr "Instal Plugin yang Diwajibkan"
+
+#: inc/template-functions.php:605
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#: inc/template-functions.php:605
+msgid " Powered by %s"
+msgstr "Ditenagai oleh %s"
+
+#: inc/template-functions.php:485
+msgid "Page"
+msgstr "Halaman"
+
+#: inc/extras.php:339
+msgid "Search"
+msgstr "Cari"
+
+#: inc/metabox.php:71
+msgid "Choose Sidebar Template"
+msgstr "Pilih Templat Sidebar"
+
+#: inc/metabox.php:61
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: inc/metabox.php:56
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: inc/metabox.php:46
+msgid "Full Width"
+msgstr "Lebar Penuh"
+
+#: inc/customizer/general.php:467
+msgid "Hide Category"
+msgstr "Sembunyikan Kategori"
+
+#: inc/customizer/general.php:468
+msgid "Enable to hide category."
+msgstr "Aktifkan untuk menyembunyikan kategori."
+
+#: inc/customizer/general.php:421
+msgid "Related Posts Section Title"
+msgstr "Judul Bagian Artikel Terkait"
+
+#: inc/extras.php:21
+msgid "updated on "
+msgstr "diperbarui pada"
+
+#: inc/extras.php:15
+msgid "on "
+msgstr "pada"
+
+#: inc/customizer/home.php:108
+msgid "Instagram Section"
+msgstr "Bagian Instagram"
+
+#: inc/customizer/home.php:130
+msgid "Enable to show Instagram Section"
+msgstr "Aktifkan untuk menampilkan Bagian Instagram"
+
+#: inc/customizer/general.php:128
+msgid "Link"
+msgstr "Tautan"
+
+#: inc/customizer/general.php:264
+msgid "Enable Blog Excerpt"
+msgstr "Aktifkan Ringkasan Blog"
+
+#: inc/customizer/general.php:123
+msgid "Font Awesome Icon"
+msgstr "Ikon Font Awesome"
+
+#: inc/customizer/general.php:119
+msgid "Social Links"
+msgstr "Tautan Media Sosial"
+
+#: inc/customizer/general.php:97
+msgid "Enable to show social links at header."
+msgstr "Aktifkan untuk menampilkan tautan media sosial di header."
+
+#: inc/customizer/general.php:96
+msgid "Enable Social Links"
+msgstr "Aktifkan Tautan Media Sosial"
+
+#: inc/customizer/general.php:75
+msgid "Social Media Settings"
+msgstr "Pengaturan Media Sosial"
+
+#: inc/customizer/appearance.php:68
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Style"
+msgstr "Gaya"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Variant"
+msgstr "Varian"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Left"
+msgstr "Kiri"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Bottom"
+msgstr "Bawah"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Top"
+msgstr "Atas"
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+msgid "All"
+msgstr "Semua"
+
+#: inc/custom-controls/typography/class-fonts.php:144
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:140
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:136
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:132
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:128
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:124
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:120
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:116
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:112
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/custom-controls/typography/class-fonts.php:108
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/widgets.php:59
+msgid "Add footer one widgets here."
+msgstr "Tambahkan widget footer satu di sini."
+
+#: inc/widgets.php:57
+msgid "Footer One"
+msgstr "Footer Satu"
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "Aktivasi plugin gagal."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak tersedia plugin untuk diaktifkan saat ini."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diaktifkan. Tidak ada aksi diproses."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak tersedia plugin untuk diperbarui saat ini."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "Tidak Diinstal"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "Disertakan Sebelumnya"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "Sumber Luar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: inc/metabox.php:41 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr "Sidebar Baku"
+
+#: inc/metabox.php:18 inc/metabox.php:28
+msgid "Sidebar Layout"
+msgstr "Layout Sidebar"
+
+#: inc/typography.php:372
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/typography.php:371
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/typography.php:370
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/typography.php:369
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/typography.php:368
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#. translators: %s: post author.
+#: inc/extras.php:54
+msgctxt "post author"
+msgid "by %s"
+msgstr "oleh %s"
+
+#: inc/customizer/general.php:286
+msgid "Automatically generated excerpt length (in words)."
+msgstr "Otomatis menampilkan panjang ringkasan (jumlah kata)."
+
+#: inc/customizer/general.php:285
+msgid "Excerpt Length"
+msgstr "Panjang Ringkasan"
+
+#: inc/customizer/appearance.php:35
+msgid "Primary color of the theme."
+msgstr "Warna primer tema."
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Lowercase"
+msgstr "Huruf Kecil"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Select a font-family"
+msgstr "Pilih kelompok font"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "Uppercase"
+msgstr "Huruf Besar"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "None"
+msgstr "Tidak ada"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Transform"
+msgstr "Transformasi Teks"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Text Align"
+msgstr "Perataan Teks"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Letter Spacing"
+msgstr "Spasi Huruf"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "Batas: %s baris"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "Tambah %s baru"
+
+#: inc/widgets.php:62
+msgid "Footer Two"
+msgstr "Footer Dua"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Penginstal Plugin yang Diwajibkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulai mengaktifkan plugin"
+msgstr[1] "Mulai mengaktifkan plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Mulai memperbarui plugin"
+msgstr[1] "Mulai memperbarui plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulai menginstal plugin"
+msgstr[1] "Mulai menginstal plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "Terjadi kesalahan dengan API plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr "Menginstal Plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr "Instal Plugin"
+
+#: inc/customizer/general.php:311
+msgid "Read More Text"
+msgstr "Teks Baca Selengkapnya"
+
+#: inc/customizer/general.php:265
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "Aktifkan untuk menampilkan ringkasan atau nonaktifkan untuk menampilkan semua konten artikel."
+
+#: inc/customizer/appearance.php:111
+msgid "Secondary font of the site."
+msgstr "Font sekunder situs."
+
+#: inc/customizer/appearance.php:110
+msgid "Secondary Font"
+msgstr "Font Sekunder"
+
+#: inc/customizer/appearance.php:89
+msgid "Primary font of the site."
+msgstr "Font utama situs."
+
+#: inc/customizer/appearance.php:88
+msgid "Primary Font"
+msgstr "Font Utama"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Font Style"
+msgstr "Gaya Tulisan"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Line Height"
+msgstr "Tinggi Baris"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin Extended"
+msgstr "Latin Extended"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Latin"
+msgstr "Latin"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Khmer"
+msgstr "Khmer"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek Extended"
+msgstr "Greek Extended"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Greek"
+msgstr "Greek"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic Extended"
+msgstr "Cyrillic Extended"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "Cyrillic"
+msgstr "Cyrillic"
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "OFF"
+msgstr "OFF"
+
+#: inc/custom-controls/typography/class-typography-control.php:45
+msgid "ON"
+msgstr "ON"
+
+#: inc/custom-controls/typography/class-fonts.php:200
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:199
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/custom-controls/typography/class-fonts.php:198
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:197
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/custom-controls/typography/class-fonts.php:196
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:96
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "Nilai Heksa"
+
+#: inc/template-functions.php:210
+msgid "Uh-Oh..."
+msgstr "Ah-Oh..."
+
+#: inc/typography.php:27
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography.php:26
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "Disarankan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "Diwajibkan"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/customizer/general.php:400
+msgid "Show Related Posts"
+msgstr "Tampilkan Artikel Terkait"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Weight"
+msgstr "Bobot Huruf"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Thai"
+msgstr "Thai"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Telugu"
+msgstr "Telugu"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Tamil"
+msgstr "Tamil"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: inc/custom-controls/typography/class-fonts.php:194
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:193
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/custom-controls/typography/class-fonts.php:192
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:191
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/custom-controls/typography/class-fonts.php:190
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:189
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/custom-controls/typography/class-fonts.php:188
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:187
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/custom-controls/typography/class-fonts.php:186
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200 Italic"
+msgstr "Tipis 200 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:185
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/custom-controls/typography/class-fonts.php:184
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:183
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/custom-controls/typography/class-fonts.php:104
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/custom-controls/typography/class-fonts.php:100
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/customizer/general.php:401
+msgid "Enable to show related posts in single page."
+msgstr "Aktifkan untuk menampilkan artikel terkait di halaman tunggal."
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Bengali"
+msgstr "Bengali"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Arabic"
+msgstr "Arabic"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Hebrew"
+msgstr "Hebrew"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#: inc/custom-controls/typography/class-fonts.php:195
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/extras.php:717
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:18
+#: inc/tgmpa/recommended-plugins.php:71
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/template-functions.php:603
+msgid " Blossom Themes"
+msgstr "Blossom Themes"
+
+#: inc/customizer/slider.php:37
+msgid "Disable Banner Section"
+msgstr "Nonaktifkan Bagian Banner"
+
+#: inc/customizer/slider.php:33
+msgid "Banner Options"
+msgstr "Opsi Banner"
+
+#. translators: 1: list of tags.
+#: inc/extras.php:114
+msgid "%1$sTags:%2$s %3$s"
+msgstr "%1$sTag:%2$s %3$s"
+
+#: inc/customizer/general.php:376
+msgid "Author Section Title"
+msgstr "Judul Bagian Penulis"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr "Ganti Berkas"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr "Tambahkan Berkas"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr "Tidak Ada Berkas Dipilih"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr "Ganti Gambar"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr "Tambahkan Gambar"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "Hapus"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr "Tidak Ada Gambar Dipilih"
+
+#: inc/template-functions.php:602
+msgid " Blossom Travel | Developed By "
+msgstr "Blossom Travel | Diciptakan Oleh"
+
+#: inc/template-functions.php:461
+msgid "Next Post"
+msgstr "Pos Berikutnya"
+
+#: inc/template-functions.php:442
+msgid "Previous Post"
+msgstr "Pos Sebelumnya"
+
+#: inc/template-functions.php:254
+msgid "%1$s Showing:  %2$s - %3$s of %4$s RESULTS %5$s"
+msgstr "%1$s Menampilkan:  %2$s - %3$s dari %4$s HASIL %5$s"
+
+#: inc/template-functions.php:187
+msgid "Search Results For"
+msgstr "Hasil Pencarian untuk"
+
+#: inc/widgets.php:22
+msgid "About Section"
+msgstr "Bagian Tentang Kami"
+
+#: inc/customizer/layout.php:136
+msgid "This is the general sidebar layout for whole site."
+msgstr "Ini adalah layout sidebar umum untuk keseluruhan situs."
+
+#: inc/customizer/layout.php:135
+msgid "Default Sidebar Layout"
+msgstr "Layout Sidebar Dasar"
+
+#: inc/customizer/layout.php:109
+msgid "This is the general sidebar layout for posts & custom post. You can override the sidebar layout for individual post in respective post."
+msgstr "Ini adalah layout sidebar umum untuk artikel dan post type khusus. Anda dapat menimpa layout sidebar untuk artikel tunggal yang ditentukan."
+
+#: inc/customizer/layout.php:60
+msgid "General Sidebar Layout"
+msgstr "Layout Sidebar Umum"
+
+#: inc/customizer/layout.php:17
+msgid "Change different page layout from here."
+msgstr "Ganti variasi layout halaman dari sini."
+
+#: inc/customizer/layout.php:16
+msgid "Layout Settings"
+msgstr "Pengaturan Layout"
+
+#: inc/customizer/home.php:149
+msgid "Section Title"
+msgstr "Judul Bagian"
+
+#: inc/customizer/home.php:91
+msgid "View All Label"
+msgstr "Lihat Semua Label"
+
+#: inc/customizer/home.php:67
+msgid "Blog Title"
+msgstr "Judul Blog"
+
+#: inc/customizer/slider.php:58
+msgid "Title"
+msgstr "Judul"
+
+#: inc/customizer/slider.php:38
+msgid "Static/Video CTA Banner"
+msgstr "Banner CTA Statis/Video"
+
+#: inc/customizer/slider.php:34
+msgid "Choose banner as static image/video."
+msgstr "Pilih banner berupa gambar/video statis."
+
+#: inc/customizer/general.php:542
+msgid "Misc Settings"
+msgstr "Pengaturan Tambahan"
+
+#: inc/customizer/general.php:531
+msgid "Enable to show featured image in post detail (single post)."
+msgstr "Aktifkan untuk menampilkan gambar unggulan pada detil artikel (halaman artikel tunggal)."
+
+#: inc/customizer/general.php:489
+msgid "Enable to hide post author."
+msgstr "Aktifkan untuk menyembunyikan penulis artikel."
+
+#: inc/customizer/general.php:488
+msgid "Hide Post Author"
+msgstr "Sembunyikan Penulis Artikel"
+
+#: inc/customizer/general.php:446
+msgid "Show Comments"
+msgstr "Tampilkan Komentar"
+
+#: inc/customizer/general.php:355
+msgid "Hide Author Section"
+msgstr "Sembunyikan Bagian Penulis"
+
+#: inc/customizer/general.php:335
+msgid "%s These options affect your individual posts."
+msgstr "%s Opsi ini mempengaruhi halaman artikel tunggal Anda."
+
+#: inc/metabox.php:51
+msgid "Full Width Centered"
+msgstr "Di Tengah Lebar Penuh"
+
+#. translators: %s: post title
+#: inc/extras.php:73
+msgid "0 Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "0 Komentar<span class=\"screen-reader-text\"> pada %s</span>"
+
+#: inc/customizer/general.php:129
+msgid "Example: https://facebook.com"
+msgstr "Contoh: http://facebook.com"
+
+#: inc/customizer/general.php:124
+msgid "Example: fab fa-facebook-f"
+msgstr "Contoh: fab fa-facebook-f"
+
+#: inc/customizer/general.php:62
+msgid "Background Image"
+msgstr "Gambar Latar Belakang"
+
+#: inc/customizer/general.php:47
+msgid "Enable to show Search button in header."
+msgstr "Aktifkan untuk menampilkan tombol Pencarian di header."
+
+#: inc/customizer/general.php:46
+msgid "Enable Header Search"
+msgstr "Aktifkan Pencarian di Header"
+
+#: inc/customizer/general.php:25
+msgid "Header Settings"
+msgstr "Pengaturan Header"
+
+#: inc/customizer/general.php:17
+msgid "Customize Header, Social, Sharing, SEO, Post/Page, Newsletter, Performance and Miscellaneous settings."
+msgstr "Sesuaikan Header, Media Sosial, Sharing, SEO, Artikel/Halaman, Newsletter, Performa dan Pengaturan Lainnya."
+
+#: inc/customizer/home.php:47
+msgid "Enable to show blog section."
+msgstr "Aktifkan untuk menampilkan bagian blog."
+
+#: inc/customizer/home.php:46
+msgid "Enable Blog Section"
+msgstr "Aktifkan Bagian Blog"
+
+#: inc/customizer/home.php:26
+msgid "Blog Section"
+msgstr "Bagian Blog"
+
+#: inc/customizer/home.php:17
+msgid "Static Home Page settings."
+msgstr "Pengaturan Halaman Awal Statis."
+
+#: inc/customizer/appearance.php:56
+msgid "Secondary Color"
+msgstr "Warna Sekunder"
+
+#: inc/customizer/appearance.php:16
+msgid "Customize Typography, Background Image & Color."
+msgstr "Sesuaikan Tipografi, Warna & Gambar Latar Belakang."
+
+#: inc/customizer/blog.php:12 inc/customizer/home.php:16
+msgid "Front Page Settings"
+msgstr "Pengaturan Halaman Awal"
+
+#: inc/widgets.php:39
+msgid "Add \"Blossom: Call To Action\" widget for Call to Action section."
+msgstr "Tambahkan widget \"Blossom: Call To Action\" pada bagian Call to Action."
+
+#: inc/widgets.php:37
+msgid "Call To Action Section"
+msgstr "Bagian Call To Action"
+
+#: inc/widgets.php:24
+msgid "Add \"Blossom: Featured Page Widget\" for about section."
+msgstr "Tambahkan widget \"Blossom: Halaman Unggulan\" pada bagian tentang kami."
+
+#: inc/widgets.php:42
+msgid "Newsletter Section"
+msgstr "Bagian Newsletter"
+
+#: inc/custom-functions.php:142
+msgid "Start Your Journey Now"
+msgstr "Mulai Perjalanan Anda Sekarang"
+
+#: inc/widgets.php:54
+msgid "Add \"Blossom: Image Text\" widget for blog featured section."
+msgstr "Tambahkan widget \"Blossom: Teks Gambar\" untuk bagian blog unggulan."
+
+#: inc/widgets.php:52
+msgid "Featured Blog Section"
+msgstr "Bagian Blog Unggulan"
+
+#: inc/widgets.php:49
+msgid "Add \"Blossom: Recent Post\" widget for blog trending section."
+msgstr "Tambahkan widget \"Blossom: Artikel Terbaru\" untuk bagian trending blog."
+
+#: inc/widgets.php:47
+msgid "Trending Section"
+msgstr "Bagian Trending"
+
+#: inc/widgets.php:44
+msgid "Add \"BlossomThemes: Email Newsletter Widget\" for newsletter section."
+msgstr "Tambahkan \"Blossom Themes: Widget E-mail Newsletter\" untuk bagian newsletter."
+
+#: inc/widgets.php:34
+msgid "Add \"Custom HTML\" widget for map section."
+msgstr "Tambahkan widget \"HTML Khusus\" pada bagian peta."
+
+#: inc/widgets.php:32
+msgid "Map Section"
+msgstr "Bagian Peta"
+
+#: inc/widgets.php:27
+msgid "Featured Section"
+msgstr "Bagian Unggulan"
+
+#: inc/widgets.php:19
+msgid "Add \"Blossom: Client Logo Widget\" for client logo section."
+msgstr "Tambahkan \"Blossom: Widget Logo Klien\" pada bagian logo klien."
+
+#: inc/widgets.php:17
+msgid "Client Logo Section"
+msgstr "Bagian Logo Klien"
+
+#: inc/customizer/layout.php:47
+msgid "Choose the layout of the header for your site."
+msgstr "Pilih layout untuk header situs Anda."
+
+#: inc/customizer/layout.php:25 inc/customizer/layout.php:46
+msgid "Header Layout"
+msgstr "Layout Header"
+
+#: inc/customizer/home.php:129
+msgid "Enable Instagram Section"
+msgstr "Aktifkan Bagian Instagram"
+
+#: inc/customizer/appearance.php:57
+msgid "Secondary color of the theme."
+msgstr "Warna sekunder tema."
+
+#: inc/customizer/info.php:29
+msgid "Video Link: %1$sClick here.%2$s"
+msgstr "Tautan Video: %1$sKlik di sini.%2$s"
+
+#: inc/customizer/blog.php:22
+msgid "Post Page settings."
+msgstr "Pengaturan Halaman Artikel."
+
+#: inc/customizer/blog.php:10
+msgid "Blog Page Settings"
+msgstr "Pengaturan Halaman Blog"
+
+#: inc/customizer/slider.php:109
+msgid "Banner Link"
+msgstr "Tautan Banner"
+
+#: inc/customizer/slider.php:84
+msgid "Banner Label"
+msgstr "Label Banner"
+
+#: inc/customizer/slider.php:9
+msgid "Banner Settings"
+msgstr "Pengaturan Banner"
+
+#: inc/customizer/general.php:583
+msgid "Related Portfolio Title"
+msgstr "Judul Portofolio Terkait"
+
+#: inc/customizer/general.php:193
+msgid "Enable to show breadcrumb in pages."
+msgstr "Aktifkan untuk menampilkan breadcrumb di dalam halaman."
+
+#: inc/tgmpa/recommended-plugins.php:81
+msgid "HTML5 Maps"
+msgstr "Peta HTML5"
+
+#: inc/customizer/general.php:63
+msgid "Choose background Image of your choice. Recommended size for this image is 1903px by 445px. This effect on blog, archive & search pages."
+msgstr "Pilih gambar latar belakang Anda. Ukuran yang disarankan adalah 1903px x 445px. Opsi ini berpengaruh pada halaman blog, arsip & pencarian."
+
+#: inc/widgets.php:29
+msgid "Add \"Blossom: Image Text\" widget for featured section. For featured section images, use same size images. If the images are of different sizes please regenerate those thumbnails."
+msgstr "Tambahkan widget \"Blossom: Teks Gambar\" untuk bagian unggulan. Untuk gambar pada bagian unggulan, gunakan gambar yang berukuran sama. Jika ukurannya berbeda, silakan regenerate thumbnail-thumbnail tersebut."
+
+#: inc/extras.php:714
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s<span class=\"says\">says:</span></b>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s<span class=\"says\">menulis:</span></b>"
+
+#: inc/custom-functions.php:585
+msgid "Dismiss"
+msgstr "Singkirkan"
+
+#: inc/custom-functions.php:582
+msgid "Congratulations!"
+msgstr "Selamat!"
+
+#: inc/custom-functions.php:584
+msgid "Go to the getting started."
+msgstr "Klik untuk memulai."
+
+#: inc/custom-functions.php:583
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s saat ini sudah diinstall dan siap digunakan. Klik di bawah untuk melihat dokumentasi tema, plugin untuk diinstal dan detail lainnya untuk memulai."
+
+#: inc/getting-started/tabs/plugins-panel.php:64
+msgid "Version %s"
+msgstr "Versi %s"
+
+#: inc/getting-started/tabs/support-panel.php:38
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Anda dapat merubah teks hak cipta dengan menuju %1$sTampilan > Sesuaikan > Pengaturan Footer%2$s. Namun, jika Anda ingin menyembunyikan teks apresiasi penulis, silakan %3$supgrade ke versi Pro%4$s."
+
+#: inc/getting-started/getting-started.php:154
+msgid "Free Vs Pro"
+msgstr "Gratis Vs Pro"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Memulai"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Mengaktifkan"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:118
+msgid "Jetpack Portfolio"
+msgstr "Portofolio Jetpack"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:113
+msgid "Deactivate"
+msgstr "Nonaktifkan"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:94
+msgid "Install and activate"
+msgstr "Instal dan aktifkan"
+
+#: inc/getting-started/tabs/plugins-panel.php:54
+msgid "These Free Plugins might be handy for you."
+msgstr "Plugin Gratis ini mungkin berguna untuk Anda."
+
+#: inc/getting-started/tabs/plugins-panel.php:53
+msgid "Free Plugins"
+msgstr "Plugin Gratis"
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "Plugin yang Disarankan"
+
+#: inc/getting-started/tabs/support-panel.php:52
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Bagaimana saya memecahkan masalah dengan cepat dan memperoleh layanan bantuan yang lebih cepat?"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Kunjungi Demo"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more ideas about our theme design."
+msgstr "Kunjungi demo untuk medapatkan ide tambahan mengenai desain tema kami dan fitur-fiturnya."
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Kunjungi Layanan Bantuan"
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "Tiket Bantuan"
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Memulai dengan %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Anda akan menemukan apa pun yang dibutuhkan untuk memulai dengan %1$s berikut."
+
+#: inc/getting-started/tabs/support-panel.php:31
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "Versi Pro dibuat dengan banyak fleksibilitas dengan mengedepankan pembaruan yang akan datang. Untuk itu, versi ini sedikit berbeda dengan tema gratis tetapi sangat fleksibel dan mudah digunakan."
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Namun, karena versi Pro hadir dengan tambahan fitur dan pengaturan, Anda perlu mengatur fitur tambahan di Customizer. Proses ini sederhana dan hanya membutuhkan beberapa menit."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Ketika Anda mengupgrade ke tema Pro, artikel Anda, halaman, media, kategori, dan data lainnya akan tetap utuh -- semua data Anda disimpan."
+
+#: inc/getting-started/tabs/support-panel.php:27
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Upgrade ke versi Pro -- apakah saya akan kehilangan perubahan?"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Lihat Dokumentasi"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "Bantuan &amp; Tanya Jawab"
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Lihat Tautan Dokumentasi Kami"
+
+#: inc/getting-started/tabs/support-panel.php:43
+msgid "Why is my theme not working well?"
+msgstr "Mengapa tema saya tidak berfungsi dengan baik?"
+
+#: inc/getting-started/tabs/support-panel.php:36
+msgid "How do I change the copyright text?"
+msgstr "Bagaimana saya merubah teks hak cipta?"
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "Apa perbedaan antara Gratis dan Pro?"
+
+#: inc/getting-started/tabs/support-panel.php:47
+msgid "If this didn't help, please %1$scontact us%2$s."
+msgstr "Jika hal ini tidak membantu, silakan %1$shubungi kami%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Jika Customizer Anda tidak memuat dengan benar atau Anda mengalami masalah dengan tema, hal itu mungkin karena konflik plugin."
+
+#: inc/getting-started/tabs/support-panel.php:22
+msgid "With Premium version, besides the extra features and frequent updates, you get premium support. If you run into any theme issues, you will get a lot quicker response compared to the free support."
+msgstr "Dengan versi Premium, selain fitur tambahan dan pembaruan berkala, Anda juga mendapat bantuan premium. Jika Anda menemui masalah apa pun dengan tema, Anda akan mendapat respon lebih cepat dibandingkan bantuan gratis."
+
+#: inc/getting-started/tabs/support-panel.php:20
+msgid "What are the advantages of upgrading to the Premium version?"
+msgstr "Apa saja kelebihan mengupgrade ke versi Premium?"
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both Free and Pro version of the themes are well-built. However, the Pro version comes with many additional features."
+msgstr "Kedua versi Gratis dan Pro tema dibuat dengan sangat baik. Namun, versi Pro hadir dengan banyak fitur-fitur tambahan."
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Knowledge Base didn't answer your queries, submit us a support ticket here. Our response time usually is less than a business day, except on the weekends."
+msgstr "Jika Pusat Pengetahuan tidak menjawab pertanyaan Anda, ajukan tiket bantuan di sini. Waktu respon dari kami biasanya kurang dari sehari kerja, kecuali di akhir pekan."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always a good idea to visit our %1$sKnowledge Base%2$s before you send us a support ticket."
+msgstr "Selalu merupakan ide bagus untuk mengunjungi %1$sPusat Pengetahuan%2$s sebelum Anda mengirimkan tiket bantuan."
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Kunjungi Dokumentasi"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "New to the WordPress world? Our documentation has step by step procedure to create a beautiful website."
+msgstr "Baru mengenal WordPress? Terdapat panduan langkah-demi-langkah untuk membuat situs web yang indah di dokumentasi kami."
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Untuk mengatasi masalah ini, nonaktifkan semua plugin terlebih dahulu, kecuali yang direkomendasikan oleh tema. Kemudian, muat ulang situs Anda menggunakan %1$s\"Ctrl+Shift+R\"%2$s untuk Windows. Jika masalah teratasi, mulai aktifkan plugin satu per satu, dan muat ulang dan periksa situs Anda pada saat itu. Ini akan membantu Anda mengetahui plugin mana yang menyebabkan masalah."
+
+#: template-parts/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: inc/custom-functions.php:400
+msgid "Category"
+msgstr "Kategori"
+
+#: inc/custom-functions.php:337
+msgid "Name*"
+msgstr "Nama*"
+
+#: inc/custom-functions.php:45 inc/custom-functions.php:151
+msgid "Primary"
+msgstr "Utama"
+
+#: 404.php:14
+msgid "404"
+msgstr "404"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak Ada yang Ditemukan"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:98
+#: inc/getting-started/class-getting-start-plugin-helper.php:118
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: inc/custom-functions.php:354
+msgid "Comment"
+msgstr "Komentar"
+
+#: inc/custom-functions.php:341
+msgid "Website"
+msgstr "Situs Web"
+
+#: inc/custom-functions.php:339
+msgid "Email*"
+msgstr "E-mail*"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan artikel pertama Anda? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: inc/extras.php:505 inc/extras.php:507 inc/extras.php:509 inc/extras.php:514
+#: inc/extras.php:516 inc/extras.php:521 inc/partials.php:163
+msgid "Y"
+msgstr "Y"
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan frasa yang anda cari. Silakan coba lagi dengan kata kunci lainnya."
+
+#: inc/custom-functions.php:417 inc/custom-functions.php:419
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/custom-functions.php:411 inc/custom-functions.php:413
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/partials.php:165
+msgid "All Rights Reserved. "
+msgstr "Hak Cipta Dilindungi."
+
+#: inc/partials.php:162
+msgid "&copy; Copyright "
+msgstr "&copy; Hak Cipta"
+
+#: inc/customizer/general.php:365 inc/partials.php:58
+#: inc/template-functions.php:409
+msgid "About Author"
+msgstr "Tentang Penulis"
+
+#: inc/getting-started/tabs/support-panel.php:15
+msgid "Overall, you will have more control over your website with the Pro version. You can find out more about the difference between Free and Pro versions %1$shere%2$s."
+msgstr "Secara keseluruhan, Anda mendapat kendali lebih terhadap situs web Anda dengan versi Pro. Anda dapat menemukan perbedaan antara versi Free dan Pro %1$sdi sini%2$s."
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our Blossom Travel Demo"
+msgstr "Lihat Demo Blossom Travel Kami"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Hubungi Layanan Bantuan"
+
+#: inc/partials.php:76
+msgid "Gallery"
+msgstr "Galeri"
+
+#: inc/customizer/general.php:300 inc/extras.php:138 inc/extras.php:148
+#: inc/partials.php:31 inc/template-functions.php:361
+msgid "Read"
+msgstr "Baca"
+
+#: inc/custom-functions.php:431
+msgid "Archives"
+msgstr "Arsip"
+
+#: inc/custom-functions.php:425
+msgid "Day"
+msgstr "Hari"
+
+#: inc/custom-functions.php:419
+msgid "Month"
+msgstr "bulan"
+
+#: inc/custom-functions.php:413
+msgid "Year"
+msgstr "Tahun"
+
+#: inc/custom-functions.php:407
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/custom-functions.php:355
+msgid "Leave A Comment"
+msgstr "Tinggalkan Komentar"
+
+#: inc/custom-functions.php:109
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr "Banner Dasar"
+
+#: inc/customizer/general.php:574 inc/partials.php:148
+#: single-blossom-portfolio.php:19
+msgid "Related Projects"
+msgstr "Proyek Terkait"
+
+#: 404.php:15
+msgid "Take me to the home page"
+msgstr "Bawa saya ke halaman awal"
+
+#: inc/customizer/home.php:139 inc/partials.php:139 sections/instagram.php:8
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/home.php:82 inc/partials.php:85 inc/partials.php:94
+#: inc/partials.php:130 sections/blog.php:10
+msgid "View More"
+msgstr "Lihat Selengkapnya"
+
+#: inc/custom-functions.php:423 inc/custom-functions.php:425
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/partials.php:103 inc/partials.php:112
+msgid "Get My Travel Guides"
+msgstr "Dapatkan Panduan Perjalanan Saya"
+
+#: inc/customizer/general.php:410 inc/extras.php:135 inc/extras.php:145
+#: inc/partials.php:67
+msgid "You might also enjoy:"
+msgstr "Anda mungkin juga menyukai:"
+
+#: inc/customizer/home.php:57 inc/partials.php:121 sections/blog.php:8
+msgid "Explore all New Trending Stories"
+msgstr "Jelajahi semua Cerita Trending Baru"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Below is a list of recommended plugins to install that will help you get the most out of Blossom Travel. Although each plugin is optional, it is recommended that you at least install the BlossomThemes Toolkit, BlossomThemes Email Newsletter & BlossomThemes Social Feed to create a website similar to the Blossom Travel demo."
+msgstr "Berikut adalah daftar plugin yang disarankan untuk Anda instal untuk mendapatkan hasil maksimal dari Blossom Spa. Meskipun instalasi semua plugin bersifat opsional, kami menyarankan Anda untuk setidaknya menginstal BlossomThemes Toolkit, BlossomThemes Email Newsletter & BlossomThemes Social Feed untuk membuat situs web yang mirip dengan demo Blossom Travel."
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"

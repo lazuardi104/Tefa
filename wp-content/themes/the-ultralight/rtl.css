@@ -1,0 +1,146 @@
+/*
+Theme Name: The Ultralight
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.logo-text .site-title-wrap{
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.header-search span.search-toggle-btn{
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 0
+}
+
+.has-banner .header-search span.search-toggle-btn,
+.has-bg .header-search span.search-toggle-btn{
+    border-right-color: rgba(255, 255, 255, 0.1);
+    border-left-color: none;
+}
+
+.site-header .nav-wrap{
+    text-align: left;
+}
+
+.banner-caption .banner-form .blossomthemes-email-newsletter-wrapper form input[type="text"]:first-child{
+    border-radius: 0 4px 4px 0;
+}
+
+.banner-caption .banner-form .blossomthemes-email-newsletter-wrapper form input[type="submit"]{
+    border-radius: 4px 0 0 4px;
+}
+
+.byline img{
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.entry-meta span{
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+.like-comment-wrap span{
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+.entry-footer .like-comment-wrap{
+    text-align: left;
+}
+
+.like-comment-wrap span:last-child{
+    margin-left: 0;
+}
+
+.entry-footer .like-comment-wrap .post-comment svg{
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.like-comment-wrap span a{
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+a.btn-transparent{
+    padding-left: 0;
+    padding-right: 45px;
+}
+
+a.btn-transparent:before{
+    right: 0;
+}
+
+.comment-navigation .nav-previous, .posts-navigation .nav-previous,
+.post-navigation .nav-previous{
+    float: right;
+    text-align: right;
+}
+
+.posts-navigation .nav-previous svg{
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.comment-navigation .nav-next,
+.posts-navigation .nav-next,
+.post-navigation .nav-next{
+    float: left;
+    text-align: left;
+}
+
+.posts-navigation .nav-next svg{
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+    margin-right: 5px;
+    margin-left: 0;
+}
+
+.pagination .next{
+    padding-left: 30px;
+    padding-right: 0;
+}
+
+.pagination .next:after{
+    right: auto;
+    top: 0;
+    left: -27px;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.widget_raratheme_featured_page_widget .widget-featured-holder{
+    text-align: right !important;
+}
+
+.widget_raratheme_companion_cta_widget .widget-title{
+    text-align: right;
+}
+
+.widget_raratheme_companion_faqs_widget ul li .toggle{
+    padding-left: 20px;
+    padding-right: 0;
+}
+
+.widget_raratheme_companion_faqs_widget ul li .toggle:after{
+    right: 100%;
+}
+

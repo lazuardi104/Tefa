@@ -1,0 +1,242 @@
+/*
+Theme Name: Travel Diaries
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.top-menu,
+.top-menu ul li,
+.header-t .social-networks li,
+.site-header .site-branding,
+.header-b .info-lists li {
+    float: right;
+}
+
+.header-t .social-networks,
+.header-b .info-lists{
+    float: left;
+}
+
+.top-menu ul li {
+    margin-left: 0;
+    margin-right: 47px;
+}
+
+.top-menu ul li:first-child,
+.header-t .social-networks li:first-child {
+    margin-right: 0;
+}
+
+.header-t .social-networks li {
+    margin-left: 0;
+    margin-right: 18px;
+}
+
+.header-b .info-lists li{
+	padding-left: 0;
+	padding-right: 39px;
+	margin-left: 0;
+	margin-right: 33px;
+	background-position: 100% 9px;
+}
+
+.header-b .info-lists li{
+	text-align: left
+}
+
+.main-navigation ul{
+	padding: 0;
+}
+
+.main-navigation ul li:hover > ul {
+    left: auto;
+    right: 0;
+    display: block;
+}
+
+.main-navigation ul ul li:hover > ul {
+    left: auto;
+    right: 100%;
+    display: block;
+}
+
+.main-navigation li,
+.featured-on span{
+	float: right;
+}
+
+.featured-on span{
+	margin-right: 0;
+	margin-left: 31px;
+}
+
+.featured-on .featured-on-lists{
+	float: right;
+}
+
+.recent-posts .columns-3, .popular-posts .columns-3, .guide .columns-3{
+	float: right;
+}
+
+.recent-posts .columns-3 .text-holder .entry-meta a{
+	display: inline-block;
+}
+
+.recent-posts .columns-3 .text-holder .category{
+	margin-left: -30px;
+	margin-right: -41px;
+	padding-left: 0;
+	padding-right: 24px;
+}
+
+.clients .columns-2,
+.footer-t .columns-4,
+.footer-t .widget.widget_tag_cloud a{
+	float: right;
+}
+
+.footer-t .widget.widget_tag_cloud a{
+	margin-right: 0;
+	margin-left: 6px;
+}
+
+.footer-t .widget.widget_travel_diaries_social_links ul li{
+	float: right;
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+.footer-t .widget ul li{
+	padding-left: 0;
+	background-position: calc(100% - 3px) 9px;
+	padding-right: 19px;
+}
+
+.footer-b .copyright{
+	float: right;
+}
+
+.footer-b .site-info{
+	float: left;
+}
+
+#primary .post .entry-header .entry-meta a{
+	display: inline-block;
+}
+
+#secondary .widget.widget_travel_diaries_social_links ul li{
+	float: right;
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+#secondary .widget .search-form label,
+#secondary .widget .search-form input[type="search"]{
+	float: right;
+}
+
+#secondary .widget .search-form input[type="submit"]{
+	float: left;
+}
+
+#secondary .widget.widget_travel_diaries_recent_post .post-thumbnail, #secondary .widget.widget_travel_diaries_popular_post .post-thumbnail{
+	float: right;
+	margin-right: 0;
+	margin-left: 24px;
+}
+
+#secondary .widget ul li{
+	padding-left: 0;
+	padding-right: 15px;
+	background-position: 100% 7px;
+}
+
+#comments .comment-list img{
+	float: right;
+	margin-right: 0;
+	margin-left: 30px;
+}
+
+#primary .post .category a{
+	display: inline-block;
+}
+
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous{
+	text-align: left;
+}
+
+.blog #primary .post .post-thumbnail, .category #primary .post .post-thumbnail, .archive #primary .post .post-thumbnail, .search #primary .post .post-thumbnail{
+	float: right;
+	margin-right: 0;
+	margin-left:32px; 
+}
+
+#primary .post .entry-content .readmore,
+.pagination a, .pagination .dots,
+.pagination .current{
+	float: right;
+}
+
+#primary .post blockquote, #primary .page blockquote{
+	background-position: 100% 10px;
+	padding-left: 0;
+	padding-right: 68px;
+}
+
+#primary .post ul li, #primary .page ul li{
+	background-position: 100% 10px;
+	padding-left: 0;
+	padding-right: 20px;
+}
+
+#primary .post form input[type="text"], #primary .page form input[type="text"], #primary .post form input[type="email"], #primary .page form input[type="email"], #primary .post form input[type="url"], #primary .page form input[type="url"], #primary .post form input[type="password"], #primary .page form input[type="password"]{
+	float: right;
+}
+
+#primary .post form .radio-row, #primary .page form .radio-row{
+	float: right;
+}
+
+.jcf-checkbox,
+.jcf-file .jcf-upload-button{
+	float: right;
+}
+
+#primary .post form .checkbox-group label, #primary .page form .checkbox-group label{
+	float: right;
+}
+
+.jcf-file .jcf-upload-button{
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.jcf-file .jcf-fake-input{
+	float: left;
+}
+
+#primary .post form input[type="submit"], #primary .page form input[type="submit"]{
+	margin-right: 0;
+	margin-left:11px;
+}
+
+#comments .comment-list .comment-content,
+#comments .comment-list .reply{
+	margin-left: 0;
+	margin-right: 114px;
+}
+
+#comments .comment-list .children{
+	margin-left: 0;
+	margin-right: 79px;
+}
